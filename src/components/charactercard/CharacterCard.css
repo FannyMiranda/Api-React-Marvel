@@ -1,0 +1,17 @@
+.thumbnail img {
+  width:200px;
+  height:200px;
+}
+
+.thumbnail {
+  height:300px;
+}
+.img-circle {
+  border-radius: 50%!;
+  width: 270px!important;
+  
+}
+modal-body{
+  width: 270px;
+  
+}
