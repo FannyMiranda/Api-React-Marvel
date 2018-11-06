@@ -1,0 +1,17 @@
+body, .thumbnail {
+  background-color: #060606;
+}
+
+h3 {
+  color: #bd382f;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-default {
+  background-color: #1010101c;
+}
+.navbar-default .navbar-brand {
+  color: #dedada;
+}
+
+/*# sourceMappingURL=App.css.map */
