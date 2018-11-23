@@ -1,4 +1,4 @@
-import request from 'superagent';
+import request from 'superagent';             //api de ajax
 import md5 from 'md5'
 
 const baseUrl = 'http://gateway.marvel.com/v1/public/';
